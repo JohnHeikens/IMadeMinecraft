@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blockworld", "Blockworld\Blockworld.csproj", "{0D48E487-93E9-41F8-A6D9-06CCEC08AE57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D48E487-93E9-41F8-A6D9-06CCEC08AE57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D48E487-93E9-41F8-A6D9-06CCEC08AE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D48E487-93E9-41F8-A6D9-06CCEC08AE57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D48E487-93E9-41F8-A6D9-06CCEC08AE57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E988809-7BC2-4944-9C86-28C4AD59F751}
+	EndGlobalSection
+EndGlobal

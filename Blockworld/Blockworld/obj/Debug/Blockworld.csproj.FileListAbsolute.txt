@@ -1,0 +1,13 @@
+c:\users\gebruiker\source\repos\Blockworld\Blockworld\obj\Debug\Blockworld.csproj.CoreCompileInputs.cache
+c:\users\gebruiker\source\repos\Blockworld\Blockworld\bin\Debug\Blockworld.exe.config
+c:\users\gebruiker\source\repos\Blockworld\Blockworld\bin\Debug\Blockworld.exe
+c:\users\gebruiker\source\repos\Blockworld\Blockworld\bin\Debug\Blockworld.pdb
+c:\users\gebruiker\source\repos\Blockworld\Blockworld\obj\Debug\Blockworld.csprojResolveAssemblyReference.cache
+c:\users\gebruiker\source\repos\Blockworld\Blockworld\obj\Debug\Blockworld.exe
+c:\users\gebruiker\source\repos\Blockworld\Blockworld\obj\Debug\Blockworld.pdb
+C:\Users\Gebruiker\source\repos\Blockworld\Blockworld\bin\Debug\Blockworld.exe.manifest
+C:\Users\Gebruiker\source\repos\Blockworld\Blockworld\bin\Debug\Blockworld.application
+C:\Users\Gebruiker\source\repos\Blockworld\Blockworld\obj\Debug\Blockworld.exe.manifest
+C:\Users\Gebruiker\source\repos\Blockworld\Blockworld\obj\Debug\Blockworld.application
+C:\Users\Gebruiker\source\repos\Blockworld\Blockworld\bin\Debug\AviFile.dll
+C:\Users\Gebruiker\source\repos\Blockworld\Blockworld\obj\Debug\Blockworld.csprojAssemblyReference.cache
